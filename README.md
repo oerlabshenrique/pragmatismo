@@ -1,7 +1,4 @@
-# pragmatismo
-
-
-Projeto: 
+Projeto: OER Labs
 URL: https://oerlabs.com.br/
 Autor: Henrique Olivetti
 Email: henrique@oerlabs.com.br
